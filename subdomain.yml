@@ -44,6 +44,9 @@ CNAME records:
   - name: betterlist
     value: a7532499-c7f0-4d84-b45a-7ba31e385693.id.repl.co
     proxy: true
+  - name: dvr
+  - value: 4bf630a3-445a-4ce1-8935-e1e2b2a86a91.id.repl.co
+  - proxy: true
 
 # NS records are used to specify the authoritative name servers for the zone.
 # If you are unsure what NS records do, we recommend using CNAME records instead.
